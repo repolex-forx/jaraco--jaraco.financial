@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "jaraco.financial",
+  "versions": [
+    {
+      "commit": "59615a2747a7d5405aadef5b380e397051f67ef6",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:12:58.981485+00:00"
+    }
+  ]
+}
